@@ -1,7 +1,7 @@
 # Online Examination Portal with MCQs
 
 ## Introduction
-This is a web-based **Online Examination Portal** built using **Django (Python)**. It allows users to take MCQ-based exams, evaluate results, and manage exam data efficiently.
+This is a web-based **Online Examination Portal With MCQS** built using **Django (Python)**. It allows users to take MCQ-based exams, evaluate results, and manage exam data efficiently.
 
 ## Features
 - User authentication (Login/Register)
